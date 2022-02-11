@@ -1,4 +1,3 @@
-![WindowRaiser](https://user-images.githubusercontent.com/17018691/153568307-f63f6772-a582-4c1a-a28e-ce4fc233bf5a.png)
 # remote-stepper
 
 The motivation behind this project is my inability to wake up. My bedroom has blackout shades which make sleeping awesome and waking up hard. I was bad at waking up before installing the blackout shades, I am even worse now. 
