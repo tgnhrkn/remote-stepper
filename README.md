@@ -1,3 +1,4 @@
+![WindowRaiser](https://user-images.githubusercontent.com/17018691/153568307-f63f6772-a582-4c1a-a28e-ce4fc233bf5a.png)
 # remote-stepper
 
 The motivation behind this project is my inability to wake up. My bedroom has blackout shades which make sleeping awesome and waking up hard. I was bad at waking up before installing the blackout shades, I am even worse now. 
@@ -64,6 +65,6 @@ Remote controlled window shades do exist, but that wasn't an option for this pro
 
 ## What the heck are you actually making?
 
-Good point, pretty much a box, that has a motor in it, that has some fishing line coming out of it, that connects to the window shade and a remote that can tell it to go up and down.
+Good point, pretty much a box, that has a motor in it, that has some fishing line coming out of it, that connects to the window shade and a remote that can tell it to go up and down. The ms paint drawing below should capture it.
 
-
+![WindowRaiser](https://user-images.githubusercontent.com/17018691/153568326-2373c7cb-7249-440b-b6a3-964f8bd2ae2a.png)
