@@ -13,8 +13,8 @@ WiFiClient client;
 IPAddress ip(192, 168, 1, 71);
 IPAddress gateway(192, 168, 1, 1);
 IPAddress subnet(255, 255, 0, 0);
-const char* ssid     = "TheWifi";
-const char* password = "ThePassword";
+const char* ssid     = "<wifi ssid>";
+const char* password = "<password>";
 
 // This will probably be useful later
 unsigned long timeout;
